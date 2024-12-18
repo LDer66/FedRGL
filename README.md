@@ -17,12 +17,12 @@ FedRGL/
 └── README.md                   # Project description file
 
 
-##2. Usage
+## 2. Usage
 For example, if you want to run the Cora dataset (5 clinets), please run the following command to train our model:
 
 python train_FedRGL_Cora.py --num_clients 5 --noisy_type uniform --noisy_rate 0.3
 
-##3. Filter Frequency
+## 3. Filter Frequency
 python train_FedRGL_Cora_Ten.py --num_clients 5 --noisy_type uniform --noisy_rate 0.3
 
 
