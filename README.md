@@ -1,5 +1,8 @@
 
 # FedRGL  
+
+<span style="color:red; font-weight:bold; font-size:18px;">Image Correction</span>  
+
 **Dear** chief editor and reviewer, due to our negligence, there are wrong pictures used in Figure 5 of the experimental part of the manuscript submitted. We sincerely apologize for our mistake and your misunderstanding of this part. The correct experimental diagram of Figure 5 is as follows:
 
 ![Correct the validation of different client numbers in the experiment section, i.e., Figure 5 of the experiment.](clients_number.png)  
