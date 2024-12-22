@@ -1,5 +1,9 @@
 
-# FedRGL
+# FedRGL  
+
+！[Correct the validation of different client numbers in the experiment section, i.e., Figure 5 of the experiment.](https://github.com/LDer66/FedRGL/blob/main/clients_number.png)  
+
+**Figure:** Overview of the FedRGL framework. The architecture shows how data and models interact during training across clients and the server.
 
 ## 1. Requirements  
 To run the project, ensure the following dependencies are installed:
