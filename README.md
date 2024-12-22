@@ -1,7 +1,7 @@
 
 # FedRGL  
 
-！[Correct the validation of different client numbers in the experiment section, i.e., Figure 5 of the experiment.](clients_number.png)  
+![Correct the validation of different client numbers in the experiment section, i.e., Figure 5 of the experiment.](clients_number.png)  
 
 **Figure:** Overview of the FedRGL framework. The architecture shows how data and models interact during training across clients and the server.
 
