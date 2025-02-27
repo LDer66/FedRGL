@@ -3,7 +3,7 @@
 
 🔴 **Training pseudocode** 
 
-!(FedRGL.png)  
+![](FedRGL.png)  
 
 
 ## 1. Requirements  
