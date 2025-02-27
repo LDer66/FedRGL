@@ -3,7 +3,6 @@
 
 🔴 **Training pseudocode** 
 
-
 !(FedRGL.png)  
 
 
